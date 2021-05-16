@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30803.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1- SingleRespPrinciple", "1- SingleRespPrinciple", "{A270AFED-3273-467A-B005-E3298E13A7B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleSRP", "SampleSRP\SampleSRP.csproj", "{D458A3D7-B9AD-454F-9FE8-26A5DF76CFA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D458A3D7-B9AD-454F-9FE8-26A5DF76CFA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D458A3D7-B9AD-454F-9FE8-26A5DF76CFA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D458A3D7-B9AD-454F-9FE8-26A5DF76CFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D458A3D7-B9AD-454F-9FE8-26A5DF76CFA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D458A3D7-B9AD-454F-9FE8-26A5DF76CFA1} = {A270AFED-3273-467A-B005-E3298E13A7B5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CE71BAE-F6D6-411F-A12C-02528F17F370}
+	EndGlobalSection
+EndGlobal
